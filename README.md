@@ -25,8 +25,8 @@ I'm keen on exploring and learning more about:
 
 - **Machine Learning and Artificial Intelligence**
 - **Cybersecurity frameworks and best practices**
-- **Automation in Quality Assurance**
-- **Data Privacy and Digital Forensics**
+- **Cloud Technologies**
+- **Database Management**
 
 ---
 

@@ -12,7 +12,7 @@ I have a strong foundation in programming languages like Python, Java, and C, wh
 ## 🌟 Projects
 Here are some projects I'm proud of and plan to showcase in my portfolio:
 
-- **Interactive Tic-Tac-Toe with AI**: Developed a Tic-Tac-Toe game with intelligent AI using the Minimax algorithm on a Raspberry Pi.
+- **Networking Component for Tic-Tac-Toe Game with AI (https://github.com/Aastha-Mistry/tictactoe-ai-networking)**: A project that integrates a TicTacToe game with AI using Raspberry Pi and Sense HAT. Features include cloud-based score management, web server hosting with Flask, and networking analysis.  
 - **Ambient Light Detector Using FPGA**: Designed a circuit to measure ambient light levels and signal output via LED using VHDL.
 - **Car through a Maze**: Built and coded an autonomous vehicle that navigates through a maze using sensors.
 

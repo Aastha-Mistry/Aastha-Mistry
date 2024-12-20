@@ -22,11 +22,13 @@ You can find more details in each project’s repository on my profile.
 
 ## 🌱 Interests
 I'm keen on exploring and learning more about:
+  
+- **Data Analysis and Visualization**: Gaining insights through tools like Python, SQL, Excel, and Tableau.  
+- **Data Modeling and Management**: Designing and optimizing data structures for efficient storage and retrieval.  
+- **Big Data and Cloud Computing**: Exploring tools like AWS, Google Cloud, and data processing frameworks like Hadoop.  
+- **Data Security and Governance**: Implementing best practices to ensure data privacy and compliance.  
+- **Machine Learning for Data Insights**: Using predictive analytics and AI to uncover trends and patterns in datasets.  
 
-- **Machine Learning and Artificial Intelligence**
-- **Cybersecurity frameworks and best practices**
-- **Cloud Technologies**
-- **Database Management**
 
 ---
 

@@ -12,7 +12,7 @@ I have a strong foundation in programming languages like Python, Java, and C, wh
 ## 🌟 Projects
 Here are some projects I'm proud of and plan to showcase in my portfolio:
 
-- **Data-Driven Loan Portfolio Analysis and Visualization (https://github.com/Aastha-Mistry/Loan-Portfolio-Analytics-and-Visualization)**: Analyzed a bank's loan portfolio using SQL for data extraction and transformation, and Tableau & Power BI for interactive visualizations and reports. Focused on identifying trends, assessing performance, and delivering insights to support data-driven decision-making.
+- **Loan Portfolio Analysis and Visualization (https://github.com/Aastha-Mistry/Loan-Portfolio-Analytics-and-Visualization)**: Analyzed a bank's loan portfolio using SQL for data extraction and transformation, and Tableau & Power BI for interactive visualizations and reports. Focused on identifying trends, assessing performance, and delivering insights to support data-driven decision-making.
 - **Cybercrime Data Analysis (https://github.com/Aastha-Mistry/ComputerForensics-DataAnalysis)**: A project analyzing a cybercrime forensics dataset to uncover suspicious patterns and trends. Leveraged Python for data cleaning, exploration, and machine learning to identify key insights in cybercrime data.
 - **Networking Component for Tic-Tac-Toe Game with AI (https://github.com/Aastha-Mistry/tictactoe-ai-networking)**: A project that integrates a TicTacToe game with AI using Raspberry Pi and Sense HAT. Features include cloud-based score management, web server hosting with Flask, and networking analysis.  
 - **Ambient Light Detector Using FPGA**: Designed a circuit to measure ambient light levels and signal output via LED using VHDL.
